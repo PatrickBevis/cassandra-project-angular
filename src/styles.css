@@ -1,3 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import 'tailwindcss';
+
+body {
+  @apply bg-gray-800 min-h-screen ml-64 text-gray-100
+}
+
